@@ -1,4 +1,12 @@
-count=7&theme=dracula"/>
+### Hi there! 👋 My name is Flávio Mota
+-   Email:    flaviofilipemota@gmail.com
+-   LinkedIn: https://www.linkedin.com/in/fl%C3%A1vio-mota-29021695/
+
+##
+<div align="center">
+  <a href="https://github.com/flaviomota">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviomota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviomota&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   
