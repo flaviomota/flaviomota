@@ -1,4 +1,4 @@
-### Hi there! 👋 My name is Flávio Mota
+### Hi there! 👋 My name is Flávio
 -   Email:    flaviofilipemota@gmail.com
 -   LinkedIn: https://www.linkedin.com/in/fl%C3%A1vio-mota-29021695/
 
